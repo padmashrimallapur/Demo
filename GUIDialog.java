@@ -27,8 +27,6 @@ public class GUIDialog implements ActionListener{
 
         frame.pack();
         frame.setVisible(true);
-
-
     }
 
     public void actionPerformed(ActionEvent e)
